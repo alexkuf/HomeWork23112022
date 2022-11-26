@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.title {
+    background-color: beige;
+    margin: 50px;
+    /* text-align: center; */
+}
+
+h2 {
+    padding: 0 0 25px 0;
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
